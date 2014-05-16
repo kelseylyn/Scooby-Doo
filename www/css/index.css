@@ -1,0 +1,65 @@
+.hilite{
+	color: white;
+	background-color:#00FF00;
+}
+div{
+	background-color: #00FFCC;
+	width:auto;
+height:auto;
+}
+a:hover{
+	cursor:pointer;
+}
+
+.gang{
+	display: inline;
+	padding: 10px;
+	background-color:orange;
+}
+ul{
+padding:20px;
+font-size:15px
+}
+body{
+border: 5px solid orange;
+margin:100px;
+width:auto;
+height:auto;
+background-image: url(thegang.jpg);
+background-repeat:no-repeat;
+background-color:#2C2C2C;
+
+}
+
+}
+.member {
+max-width:200px;
+max-height:200px;
+width:auto;
+height:auto;
+float:left;
+}
+.bio {
+width:600px;
+float:right;
+}
+h1{
+font-family: Magneto;
+background-color: #00FF00;
+text-align:center
+
+}
+p{
+padding:10px;
+font-size:18px;
+font-family:Garamond;
+
+}
+img{
+display:inline;
+height:auto;
+width:auto;
+}
+h6{
+color:white;
+}
