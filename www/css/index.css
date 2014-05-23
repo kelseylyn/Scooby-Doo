@@ -58,16 +58,33 @@ font-size:18px;
 font-family:Garamond;
 
 }
-img{
+.badguy{
 display:inline;
 height:auto;
 width:auto;
+max-width:200px;
+max-height:200px;
 }
 h6{
 color:white;
 }
-.mash{
-align:middle;
-margin:0 auto;
-position: relative;
+h3{
+padding:30px
 }
+#top{
+height:auto;
+width:auto;
+max-width:500px;
+max-height:500px;
+}
+.monster{
+display:inline;
+height:auto;
+width:auto;
+max-width:300px;
+max-height:300px;
+}
+.monsters{
+overflow:scroll;
+}
+
