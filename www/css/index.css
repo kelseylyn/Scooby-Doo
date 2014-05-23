@@ -40,8 +40,11 @@ height:auto;
 float:left;
 }
 .bio {
-width:600px;
+
 float:right;
+width:800px;
+height:600px;
+overflow:scroll;
 }
 h1{
 font-family: Magneto;
@@ -63,4 +66,8 @@ width:auto;
 h6{
 color:white;
 }
-
+.mash{
+align:middle;
+margin:0 auto;
+position: relative;
+}
