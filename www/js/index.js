@@ -3,6 +3,7 @@ $('#shaggy').hide();
 $('#fred').hide();
 $('#daphne').hide();
 $('#velma').hide();
+$('#monsters').hide();
 
 $('li>a').click(function(){
 	hideAll();
@@ -26,4 +27,5 @@ $('#shaggy').hide();
 $('#fred').hide();
 $('#daphne').hide();
 $('#velma').hide();
+$('#monsters').hide();
 }
