@@ -1,9 +1,9 @@
 .hilite{
 	color: white;
-	background-color:#00FF00;
+	background-color:#FB4310;
 }
 div{
-	background-color: #00FFCC;
+	background-color:#08679D;
 	width:auto;
 height:auto;
 }
@@ -14,14 +14,14 @@ a:hover{
 .gang{
 	display: inline;
 	padding: 10px;
-	background-color:orange;
+	background-color:#F26722;
 }
 ul{
 padding:20px;
 font-size:15px
 }
 body{
-border: 5px solid orange;
+border: 5px solid #F26722;
 margin:100px;
 width:auto;
 height:auto;
@@ -48,7 +48,7 @@ overflow:scroll;
 }
 h1{
 font-family: Magneto;
-background-color: #00FF00;
+background-color: #79B34C;
 text-align:center
 
 }
